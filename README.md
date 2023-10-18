@@ -42,4 +42,6 @@ To run this Project
 
     4. Faker API Integration: Dummy data for monthly earnings and customer demographics is generated using the Faker API. This data can be replaced with real data as needed.
 
-    
+## Screenshots
+
+ ![Dashboard_screenshot](https://github.com/happy-jays/DashboardApp/assets/56588611/dff5c9fe-e00d-4074-846b-7a867b63f075)    
