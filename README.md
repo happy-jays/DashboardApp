@@ -4,10 +4,15 @@
 ## Tech Stack
 
 **Client:** React, HTML, CSS, JavaScript
+
 **Styling:** Material-UI
+
 **Data Visualization:** React-chartjs-2
+
 **Sidebar Navigation:** React-pro-sidebar
+
 **Data Generation:** Faker API
+
 **Package Management:** Node.js, npm
 
 ## Installation
